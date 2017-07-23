@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pujie Watch Face</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome!</string>
+    <string name="slide_1_desc">This is a curation of some of the best Pujie Black Watch Faces!</string>
+
+    <string name="slide_2_title">Tap It!</string>
+    <string name="slide_2_desc">Just Tap to set your Watch Face!</string>
+
+    <string name="slide_3_title">Credits</string>
+    <string name="slide_3_desc">Below Every Watch Face, you will find link to page of the designer!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
