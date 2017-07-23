@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PujieWatchFace.iml" filepath="$PROJECT_DIR$/PujieWatchFace.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pujie-face-collection.iml" filepath="$PROJECT_DIR$/pujie-face-collection.iml" />
     </modules>
   </component>
 </project>
